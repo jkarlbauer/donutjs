@@ -1,6 +1,6 @@
 # donutjs
 3D donut render.
 
-Renders a 3D Donut in real-time.
+Renders a spinning 3D Donut in real-time.
 
 ![](doughnut.png)
